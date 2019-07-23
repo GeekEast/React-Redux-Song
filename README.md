@@ -57,6 +57,9 @@ Name | What | Where | Analogy | Example
 
 ### References
 [阮一峰：Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
+
 [Video: Redux Basics](https://egghead.io/courses/getting-started-with-redux)
+
 [Video: Redux Advanced](https://egghead.io/courses/start-learning-react)
+
 [Github Demo](https://github.com/GeekEast/React-Redux-Song)
