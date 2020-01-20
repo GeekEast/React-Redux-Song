@@ -46,7 +46,7 @@ Name | What | Where | Analogy | Example
 ### Question
 - **How the redux match between reducer and action?**
   - It happens internal within the store.
-  - All the reducers will check the action type (**Iteration**)
+  - `All the reducers will check the action type` (**Iteration**)
 - **Can we deal with same type of actions in different reducers?**
   - Sure!
   - **All** these reducers will be triggerred when the action come.
