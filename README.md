@@ -46,14 +46,14 @@ Name | What | Where | Analogy | Example
 ### Question
 - **How the redux match between reducer and action?**
   - It happens internal within the store.
-  - `All the reducers will check the action type` (**Iteration**)
+  - All the reducers will check the action type (**Iteration**)
 - **Can we deal with same type of actions in different reducers?**
   - Sure!
-  - **All** these reducers will be triggerred when the action come.
+  - **All these reducers will be triggerred when the action come**.
 - **Why we need use action creator?**
   - The reason is like whey you use decorator or wrapper function.
-  - **Reason one**: trigger in the future.
-  - **Reason two**: pass external parameters
+  - **Reason one**: pass external parameters to customize
+  - **Reason two**: code reuse based different parameters
 
 ### References
 [阮一峰：Redux 入门教程（一）：基本用法](http://www.ruanyifeng.com/blog/2016/09/redux_tutorial_part_one_basic_usages.html)
